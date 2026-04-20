@@ -1,0 +1,10 @@
+.box {
+    height: 30vh;
+    background-color: blue;
+    width: 30vw;
+}
+.box img {
+    display: flex;
+    height: 30vh;
+    width: 25vw;
+}
